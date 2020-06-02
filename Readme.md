@@ -4,4 +4,4 @@
 
 [Live Demoe](https://rajan-savaliya.github.io/mobile-resposive-css-grid-site/)
 
-> feel free to use this site in your personl project
+> feel free to use this site in your personl project.
